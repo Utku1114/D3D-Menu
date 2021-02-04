@@ -1,0 +1,4 @@
+﻿Base.obj : error LNK2019: çözümlenmemiş dış sembol Direct3DCreate9 için "void * __cdecl D3Ddiscover(void *,int)" (?D3Ddiscover@@YAPEAXPEAXH@Z) işlevinde başvuruldu
+C:\Users\utkum\OneDrive\Masaüstü\d3d\Lib\d3d9.lib : warning LNK4272: 'x86' kitaplık makine türü, 'x64' hedef makine türüyle çakışıyor
+C:\Users\utkum\OneDrive\Masaüstü\d3d\Lib\d3dx9.lib : warning LNK4272: 'x86' kitaplık makine türü, 'x64' hedef makine türüyle çakışıyor
+C:\Users\utkum\OneDrive\Masaüstü\d3d\deüçde\x64\Debug\deüçde.dll : fatal error LNK1120: 1 çözümlenmemiş dışlar
